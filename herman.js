@@ -52,7 +52,7 @@ owner = setting.OwnerNumber//ubah di file setting.json
 botname = setting.BotName//ubah di file setting.json
 ownername = setting.OwnerName//ubah di file setting.json
 fake = setting.Fake
-pe = 'https://instagram.com/cal_me_herman?utm_medium=copy_'
+pe = 'https://instagram.com/cal_m?utm_medium=copy_'
 //࿇ ══━━━━━━━━━━━━━━━━━━━━✥SUBSCRIBE HERMAN CHANEL✥━━━━━━━━━━━━━━━━━━━━━━━━══ ࿇
 AlphaBot = 'Alphabot'
 Leyscoders = 'IkyOgiwara'
@@ -312,7 +312,7 @@ const isUrl = (url) => {
                             itemCount : 99999999,
                             status: 1,
                             surface : 1,
-                            message: `囧 𝐻𝑒𝑟𝑚𝑎𝑛 𝐶ℎ𝑎𝑛𝑒𝑙`, 
+                            message: `囧 By FARUQ-OFC`, 
                             orderTitle: `${botname}`,
                             thumbnail: fakeherman, //Gambarnye
                             sellerJid: '0@s.whatsapp.net' 
